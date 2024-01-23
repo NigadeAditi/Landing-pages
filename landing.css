@@ -1,0 +1,178 @@
+*
+{
+    padding :0;
+    margin:0;
+    
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4z9K9bxz_h41ADnAxKY6f11_BsYYaA-Cq8A&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: max-content;
+}
+
+.logo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 15px;
+    padding-left: 15px;
+    color: white;
+    padding-top: 10px;
+}
+
+a
+{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+   margin-left: 180px;
+ 
+       
+}
+
+select
+{
+    float: right;
+    margin-right: 20px;
+   font-size: 20px;
+  
+}
+
+.design{
+    padding-left:90px;
+    padding-top: 120px;
+    color: white;
+}
+span{
+    color:orangered;
+    font-size: 30px;
+    margin-left: -19px;
+}
+.intro
+{
+  width: 290px;
+  height: 100px;
+  text-align: center;
+  margin-left: 150px;
+  font-size: 20px;
+  color: white;
+  padding-top:10px;
+
+}
+
+button{
+    color: blueviolet;
+    background-color: white;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin:160px;
+    margin-left: 200px;
+    padding: 5px;
+}
+form
+{
+    
+    border: 7px solid white;
+    height:350px;
+    width:300px;
+    border-radius: 50px;
+    padding:25px;
+    position:absolute;
+    top: 25%;
+    left: 60%;
+}
+
+.login
+{
+    color:white;
+    text-align: center;
+   
+}
+.join{
+    color:rgb(230, 83, 15);
+    margin-left:140px;
+}
+
+input{
+width: 100%;
+margin:12px;
+font-size: 15px;
+border:3px solid white;
+
+}
+
+label{
+    color: white;
+
+}
+input[type=submit]
+{
+    color:blueviolet;
+    width: 50%;
+   margin-left: 89px;
+   font-size: 20px;
+   border-radius: 15px;
+}
+
+
+footer{
+    text-align: center;
+    background-color: rgb(253, 251, 253);
+    color:blueviolet;
+    padding: 10px;
+    
+}
+
+.list
+{
+    color: white;
+    font-size: 25px;
+    line-height: 1.8;
+    text-align: center;
+    border: 1px dotted white;
+    margin: 50px;
+ 
+}
+.learning{
+    color: white;
+    text-align: center;
+
+}
+
+.data{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:40px;
+    margin: 50px;
+    width: 80%;
+    
+}
+#apply
+{
+    color: aliceblue;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
